@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:blocks",
+	"pools": [
+		{
+			"name": "reforging_table",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "reforging:reforging_table"
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

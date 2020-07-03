@@ -1,0 +1,10 @@
+{
+	"container.reforging.reforging_menu": "Reforging",
+	"block.reforging.reforging_table": "Reforging Table",
+	"attribute.name.reforging.attack_reach": "Attack Reach",
+	"attribute.name.reforging.attack_knockback": "Attack Knockback",
+	"item.reforging.club": "Club",
+	"item.reforging.spear": "Spear",
+	"entity.reforging.spear": "Spear",
+	"entity.reforging.shockwave": "Shockwave"
+}

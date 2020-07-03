@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "reforging:block/placeholder",
+		"down": "reforging:block/placeholder",
+		"up": "reforging:block/placeholder",
+		"north": "reforging:block/placeholder",
+		"east": "reforging:block/placeholder",
+		"south": "reforging:block/placeholder",
+		"west": "reforging:block/placeholder"
+	}
+}

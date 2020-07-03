@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "reforging:block/reforging_table"
+		}
+    }
+}

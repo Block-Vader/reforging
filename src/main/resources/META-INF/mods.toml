@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="reforging"
+version="0.0.0.1"
+displayName="Reforging"
+authors="BlockVader" #optional
+description='''
+Work in progress
+'''
